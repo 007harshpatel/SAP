@@ -21,6 +21,10 @@
           "odataVersion": "2.0"
         }
       }
+    },
+    "contentDensities": {
+      "compact": true,
+      "cozy": true
     }
   },
   "sap.ui": {
